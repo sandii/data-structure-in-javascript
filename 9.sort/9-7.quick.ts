@@ -3,6 +3,7 @@
 * date: Mar 19, 2021
 *
 * quick sort
+* nlogn ~ n^2
 * 
 * set a pivot
 * put smaller ones to the left & bigger ones to the right
